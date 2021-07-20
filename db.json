@@ -1,11 +1,11 @@
 {
-  "LED1": [
+  "leds": [
     {
       "id": 1,
       "status": "on"
     }
   ],
-  "LED2": {
+  "btn": {
     "status": "on"
   }
 }
