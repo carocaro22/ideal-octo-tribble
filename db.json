@@ -1,4 +1,11 @@
 {
-  "led1" : 0,
-  "led2" : 0
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
