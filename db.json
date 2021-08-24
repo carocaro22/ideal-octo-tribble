@@ -1,8 +1,8 @@
 {
   "leds":
     {
-      "id": 1,
-      "status": "on"
+      "animal": "cow",
+      "color": "black"
     },
   
   "btn": {
